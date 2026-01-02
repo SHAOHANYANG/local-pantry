@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+motor
+ollama
+pydantic
+pydantic-settings
